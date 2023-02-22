@@ -33,3 +33,4 @@ import ddnet
 connect.port[83002]
 connect.port[188]
 set.menu "k.log"
+ asm.create.port[833]
