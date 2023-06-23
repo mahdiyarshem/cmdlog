@@ -1,7 +1,7 @@
-#LoginPanel
+#LoginPanel - 
 
 ( Set On Source MYSQL )
-( All right Octotive Company )
+( All right Teeworld(IRN) Company )
 ( Set In Client -> Start Menu )
-( All Code[EDIT] By Mahdiyar )
-( Create By ChillerDragon , ReiTW )
+( All Code[EDIT] By Dulostion [ Mahdiyar ]  )
+( Create By Mahdiyar )
